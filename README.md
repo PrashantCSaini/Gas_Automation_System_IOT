@@ -1,6 +1,5 @@
 # Gas_Automation_System_IOT
-IOT project to control the gas system in raspberry pie using g)
-
+IOT project to control the gas system in raspberry pie using python and android
 
 ![model](Images/IMG-20200102-WA0003.jpg)
 
